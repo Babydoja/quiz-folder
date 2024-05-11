@@ -129,6 +129,10 @@ button{
     color: rgba(252, 252, 252, 0.98);
     background: rgba(255, 2, 2, 0.82);
 }
+h1{
+    text-align: center;
+   margin-top: 10px;
+}
 button:active{
     background: lavender;
 }
